@@ -21,7 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "찹쌀궁뎅이"
 description              : "웹 백엔드 1년차의 개발 블로그"
-url                      : "https://yuna1313.github.io"
+#url                      : "https://yuna1313.github.io"
+url                      : "http://localhost:4000"  
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yuna1313/yuna1313.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -287,6 +288,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true

@@ -1,6 +1,6 @@
 ---
 published: true
-title: "RabbitMQ와 Kafka"
+title: "[네트워크] RabbitMQ와 Kafka"
 categories:
   - 네트워크
 tags:

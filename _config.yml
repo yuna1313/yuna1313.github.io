@@ -20,7 +20,7 @@ title                    : "우왕좌왕 코딩 기록"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "찹쌀궁뎅이"
-description              : "웹 백엔드 1년차의 개발 블로그"
+description              : "웹 백엔드 2년차의 개발 블로그"
 url                      : "https://yuna1313.github.io"
 #url                      : "http://localhost:4000"  
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "찹쌀궁뎅이"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "웹 백엔드 1년차의 개발 블로그"
+  bio              : "웹 백엔드 2년차의 개발 블로그"
   location         : "Somewhere"
   email            :
   links:

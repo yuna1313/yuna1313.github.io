@@ -1,6 +1,6 @@
 ---
 published: true
-title: "[VSCode] vscode-pets extension 설치"  
+title: "[VSCode] vscode-pets plugin 설치"  
 categories:
   - VSCode
 tags:

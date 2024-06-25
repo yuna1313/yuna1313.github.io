@@ -73,7 +73,3 @@ plugin 설치 후 ElasticSearch를 재기동 한다.<br>
 아래 Postman 등 프로그램을 사용해서 테스트를 진행해볼 수 있다.
 <img width="861" alt="스크린샷 2024-05-14 231858" src="https://github.com/yuna1313/yuna1313.github.io/assets/93983333/167d528b-a87d-466b-864d-26e5b6a153b5">
 
-
-참조<br>
-[https://velog.io/@colacan100/%EC%97%90%EB%9F%AC%ED%95%B4%EA%B2%B0-Received-plaintext-http-traffic-on-an-https-channel-closing-connection](https://velog.io/@colacan100/%EC%97%90%EB%9F%AC%ED%95%B4%EA%B2%B0-Received-plaintext-http-traffic-on-an-https-channel-closing-connection)<br>
-[https://lts0606.tistory.com/496](https://lts0606.tistory.com/496)<br>

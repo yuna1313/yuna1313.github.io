@@ -116,3 +116,6 @@ Filter는 Interceptor보다 앞단에서 동작하므로 보안 검사(XSS Filte
 위 내용을 알아보면서 내가 세션 처리하려고 작성했던 내용은 Interceptor에서 처리하는 것이 맞다는 것을 알게되었다. '2년 차를 접어들고 있는데 아직도 모르는 것이 투성이라니..' 라는 생각과 '지금이라도 알았으면 됐지!' 라는 생각도 들었다. 앞으로 Spring 구조에 대하여 더 공부해야겠다.
 
 ---
+
+참조<br>
+[https://mangkyu.tistory.com/173](https://mangkyu.tistory.com/173)<br>

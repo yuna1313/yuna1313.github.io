@@ -64,3 +64,9 @@ Kibana에서 시각화하기 전에 데이터를 추가로 처리하고 향상�
 
 REST API를 통하여 데이터 조작을 지원하는데 이것도 RDBMS의 SQL과 비교하면 좀 더 쉽게 이해할 수 있다.
 
+---
+
+참조<br>
+[https://www.elastic.co/guide/index.html](https://www.elastic.co/guide/index.html)<br>
+[https://esbook.kimjmin.net/](https://esbook.kimjmin.net/)<br>
+[https://peimsam.tistory.com/706](https://peimsam.tistory.com/706)<br>

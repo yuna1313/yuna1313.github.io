@@ -58,3 +58,9 @@ Kafka는 LinkedIn에서 개발한 고성능 분산 이벤트 스트리밍 플랫
 그러니 프로젝트의 특징을 잘 고려하여 알맞는 것을 사용하길 바란다.
 
 ---
+
+참조<br>
+[https://heodolf.tistory.com/49](https://heodolf.tistory.com/49)<br>
+[https://jaeyongchoi.tistory.com/11](https://jaeyongchoi.tistory.com/11)<br>
+[https://wjjeong.tistory.com/57](https://wjjeong.tistory.com/57)<br>
+[https://hongguri.tistory.com/41](https://hongguri.tistory.com/41)<br>

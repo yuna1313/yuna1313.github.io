@@ -177,3 +177,8 @@ SHOW SLAVE STATUS\G;			=> SLAVE 상태 확인
 ![KakaoTalk_20240624_224350625_05](https://github.com/yuna1313/yuna1313.github.io/assets/93983333/9f25340f-ded7-4c44-a199-83154561ff9b)
 
 이중화 작업은 처음해봐서 복잡할까봐 걱정했는데 생각보다 단순하여 다행이었다! 다만 서비스 수정하는 과정이 너무 귀찮..ㅠ
+
+---
+
+참조<br>
+[https://www.vpsserver.com/community/tutorials/9/setup-a-master-to-master-replication-between-two-mariadb-servers/](https://www.vpsserver.com/community/tutorials/9/setup-a-master-to-master-replication-between-two-mariadb-servers/)<br>
